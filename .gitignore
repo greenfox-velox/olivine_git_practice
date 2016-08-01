@@ -44,6 +44,5 @@ crashlytics-build.properties
 fabric.properties
 
 .idea/
-.gradle/
 build/
 bin/
