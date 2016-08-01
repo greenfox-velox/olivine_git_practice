@@ -7,8 +7,8 @@ public class Cheer {
 
     public String teamName = "Olivine";
 
-    public void printTeamName() {
-        System.out.println(this.teamName);
+    public void printTeamName(String teamName) {
+        System.out.println(teamName);
     }
 
 }
