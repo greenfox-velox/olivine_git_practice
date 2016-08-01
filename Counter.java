@@ -7,6 +7,7 @@ public class Counter {
 
     public void printAge(int age){
         System.out.println(age);
+        System.out.println("Ain't no conlflict. GitHub plíz.");
     }
 
 }
