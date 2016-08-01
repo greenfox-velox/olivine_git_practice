@@ -6,7 +6,6 @@ package test;
 public class Greet {
 
     public void greet(){
-        System.out.println("This is greet method. Finally.");
-        System.out.println("REPO");
+        System.out.println("Greetings");
     }
 }
