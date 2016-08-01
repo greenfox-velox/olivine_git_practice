@@ -2,26 +2,26 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries
-.idea/vcs.xml
-.idea/jsLibraryMappings.xml
+OlivineTest/.idea/workspace.xml
+OlivineTest/.idea/tasks.xml
+OlivineTest/.idea/dictionaries
+OlivineTest/.idea/vcs.xml
+OlivineTest/.idea/jsLibraryMappings.xml
 
 # Sensitive or high-churn files:
-.idea/dataSources.ids
-.idea/dataSources.xml
-.idea/dataSources.local.xml
-.idea/sqlDataSources.xml
-.idea/dynamic.xml
-.idea/uiDesigner.xml
+OlivineTest/.idea/dataSources.ids
+OlivineTest/.idea/dataSources.xml
+OlivineTest/.idea/dataSources.local.xml
+OlivineTest/.idea/sqlDataSources.xml
+OlivineTest/.idea/dynamic.xml
+OlivineTest/.idea/uiDesigner.xml
 
 # Gradle:
-.idea/gradle.xml
-.idea/libraries
+OlivineTest/.idea/gradle.xml
+OlivineTest/.idea/libraries
 
 # Mongo Explorer plugin:
-.idea/mongoSettings.xml
+OlivineTest/.idea/mongoSettings.xml
 
 ## File-based project format:
 *.iws
@@ -32,7 +32,7 @@
 /out/
 
 # mpeltonen/sbt-idea plugin
-.idea_modules/
+OlivineTest/.idea_modules/
 
 # JIRA plugin
 atlassian-ide-plugin.xml
